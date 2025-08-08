@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Jersey+25&family=Press+Start+2P&display=swap');
+
+@import 'tailwindcss';
+@import './assets/nes.css';
+@import './assets/style-nes.css';
